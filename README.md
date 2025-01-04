@@ -25,7 +25,7 @@ This project involved configuring and securing a **VyOS router** with three Ethe
 ---
 
 ## Logical Network Diagram
-![Logical Architecture Diagram](./images/Network.png)
+![Logical Architecture Diagram](./images/network.png)
 
 ---
 
